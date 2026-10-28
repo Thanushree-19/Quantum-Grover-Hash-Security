@@ -118,11 +118,16 @@ This is an educational simulation using a toy hash function and a limited search
 - Extend the analysis of matching inputs and search probabilities.
 - Explore the impact of oracle design on simulation results.
 
-## 👩‍💻 Author
+## 👩‍💻 Authors
 
 **Thanushree M N**
+**Sai Varsha K S**
+**Sana Mariyam**
+**Raina Zohreen**
 
-Computer Science Engineering
+##🤝 Contributions
+
+Developed collaboratively as a Computer Science Engineering project.
 
 ## 📄 License
 
