@@ -120,10 +120,10 @@ This is an educational simulation using a toy hash function and a limited search
 
 ## 👩‍💻 Authors
 
-**Thanushree M N**
-**Sai Varsha K S**
-**Sana Mariyam**
-**Raina Zohreen**
+-**Thanushree M N**
+-**Sai Varsha K S**
+-**Sana Mariyam**
+-**Raina Zohreen**
 
 ##🤝 Contributions
 
