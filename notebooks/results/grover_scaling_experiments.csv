@@ -1,0 +1,6 @@
+Input bits,Total inputs,Hash bits,Target input,Target hash,Matching inputs,Number of matches,Grover iterations,Shots,Successful shots,Theoretical success (%),Experimental success (%)
+2,4,4,0,0,[0],1,1,4096,4096,100.0,100.0
+3,8,4,0,0,[0],1,2,4096,3889,94.53,94.95
+4,16,4,0,0,[0],1,3,4096,3946,96.13,96.34
+5,32,4,0,0,"[0, 27]",2,3,4096,3934,96.13,96.04
+6,64,4,0,0,"[0, 17, 34, 57]",4,3,4096,3919,96.13,95.68

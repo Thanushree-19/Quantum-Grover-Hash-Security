@@ -1,0 +1,9 @@
+Input Bits,Total Inputs (N),Matching Inputs (M),Grover Iterations,Theoretical Success (%),Qiskit Success (%),Verified
+3,8,1,2,94.5312,94.5312,PASS
+3,8,2,1,100.0,100.0,PASS
+3,8,3,1,84.375,84.375,PASS
+3,8,4,0,50.0,50.0,PASS
+3,8,5,0,62.5,62.5,PASS
+3,8,6,0,75.0,75.0,PASS
+3,8,7,0,87.5,87.5,PASS
+3,8,8,0,100.0,100.0,PASS

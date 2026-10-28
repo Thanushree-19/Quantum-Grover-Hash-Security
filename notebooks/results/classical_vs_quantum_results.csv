@@ -1,0 +1,2 @@
+input_bits,total_possible_inputs,target_hash,matching_inputs,number_of_matching_inputs,classical_exhaustive_scan_entries,grover_iterations,shots,successful_measurements,theoretical_success_probability,experimental_success_probability
+4,16,5,"[5, 15]",2,16,2,4096,3862,0.945312,0.942871
